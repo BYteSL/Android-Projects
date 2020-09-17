@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fingerprint Teste</string>
+    <string name="app_signature_author">Create by Yuri Lemos</string>
+    <string name="fingerprint_title">Fingerprint Control</string>
+    <string name="fingerprint_message" />
+    <string name="fingerprint_description">Fingerprint Icon</string>
+</resources>

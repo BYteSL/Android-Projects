@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meu Netflix</string>
+    <string name="menu_mensagem">Menu Mensagem</string>
+    <string name="menu_volume">Volume</string>
+    <string name="menu_classificar">Classificar</string>
+    <string name="menu_conteudo">Conteúdo</string>
+    <string name="capa_conteudo">Imagem capa</string>
+    <string name="botao_return">Botão Retornar</string>
+    <string name="botao_play">Botão Play</string>
+    <string name="botao_pause">Botão Pause</string>
+</resources>
